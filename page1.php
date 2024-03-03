@@ -14,6 +14,7 @@
             <div class="">
                 <img src="dist/gif 1.gif" alt="" class="mb-10">
                 <h1 class="text-center text-white font-bold  text-3xl">ANJAY BERHASIL LOGIN</h1>
+                <a href="index-login.php">Logout</a>
             </div>
         </div>
    </section>
