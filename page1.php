@@ -13,7 +13,7 @@
         <div class="container bg-gray-400 bg-opacity-40 p-10  items-center justify-center m-2 rounded-lg max-w-96">
             <div class="">
                 <img src="dist/gif 1.gif" alt="" class="mb-10">
-                <h1 class="text-center text-white font-bold  text-3xl">ANJAY LOGIN 👋</h1>
+                <h1 class="text-center text-white font-bold  text-3xl">ANJAY BERHASIL LOGIN</h1>
             </div>
         </div>
    </section>
