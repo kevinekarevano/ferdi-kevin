@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Projek Pria Mewing<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
@@ -40,17 +40,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height="40" alt="ruby logo"  />
   
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 ###
